@@ -1,0 +1,39 @@
+.titulo {
+    color: #95389e;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+
+.social {
+    flex: 1 1 auto;
+    display: flex;
+    color: #95389e;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.social a {
+    font-size: 18px;
+    color: #95389e;
+    padding: 0 15px;
+}
+
+.social a:hover {
+    color: #d291bc;
+}
+
+.mapaCol {
+    margin-top: 140px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.formulario {
+    margin-top: 85px;
+    /* margin-left: 50px; */
+}
+
+.anav {
+    font-size: 18px;
+    color: #95389e;
+    font-family: 'Montserrat', sans-serif;
+}

@@ -1,0 +1,15 @@
+.menu {
+    color: #ffffff !important;
+    letter-spacing: 1px;
+    padding-right: 15px;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+
+.submenu {
+    color: #95389e !important;
+    letter-spacing: 1px;
+    padding-right: 15px;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+}
