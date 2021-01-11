@@ -1,0 +1,23 @@
+p {
+    color: #95389e;
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.titulo {
+    color: #95389e;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+@media (max-width: 576px) {
+    .titulo {
+        color: #95389e;
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        font-size: 25px;
+    }
+}
