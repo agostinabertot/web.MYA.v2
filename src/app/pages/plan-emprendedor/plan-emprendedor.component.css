@@ -18,6 +18,11 @@ p {
     font-size: 20px;
 }
 
+.icono {
+    color: #95389e;
+    font-size: 21px;
+}
+
 @media (max-width: 576px) {
     .titulo {
         color: #95389e;

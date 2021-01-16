@@ -1,11 +1,11 @@
 p {
-    color: #00bcd4;
+    color: #95389e;
     text-align: justify;
     font-family: 'Montserrat', sans-serif;
 }
 
 .titulo {
-    color: #00bcd4;
+    color: #95389e;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
@@ -14,7 +14,7 @@ p {
 
 @media (max-width: 576px) {
     .titulo {
-        color: #00bcd4cd;
+        color: #95389e;
         text-align: center;
         font-family: 'Montserrat', sans-serif;
         font-weight: bold;
