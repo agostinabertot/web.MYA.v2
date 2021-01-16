@@ -2,3 +2,13 @@
     color: #95389e;
     font-size: 21px;
 }
+
+.boton {
+    background-color: #00bcd4;
+    color: #ffe6e6;
+}
+
+.borde {
+    /* border: 3px solid #00bcd4; */
+    box-shadow: 15px 15px 20px #95389e;
+}

@@ -23,6 +23,11 @@ p {
     font-size: 21px;
 }
 
+.borde {
+    /* border: 3px solid #00bcd4; */
+    box-shadow: 15px 15px 20px #95389e;
+}
+
 @media (max-width: 576px) {
     .titulo {
         color: #95389e;
