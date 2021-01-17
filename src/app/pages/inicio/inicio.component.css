@@ -1,20 +1,25 @@
 p {
-    color: #95389e;
+    color: #ffffff;
     text-align: justify;
     font-family: 'Montserrat', sans-serif;
 }
 
 .titulo {
-    color: #95389e;
+    color: #ffffff;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 45px;
+}
+
+.borde {
+    /* border: 3px solid #00bcd4; */
+    box-shadow: 10px 10px 15px #ffffff;
 }
 
 @media (max-width: 576px) {
     .titulo {
-        color: #95389e;
+        color: #ffffff;
         text-align: center;
         font-family: 'Montserrat', sans-serif;
         font-weight: bold;

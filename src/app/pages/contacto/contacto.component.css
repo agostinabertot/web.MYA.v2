@@ -1,5 +1,5 @@
 .titulo {
-    color: #95389e;
+    color: #ffffff;
     text-align: center;
     font-family: 'Lato', sans-serif;
 }
@@ -7,13 +7,13 @@
 .social {
     flex: 1 1 auto;
     display: flex;
-    color: #95389e;
+    color: #ffffff;
     font-family: 'Montserrat', sans-serif;
 }
 
 .social a {
     font-size: 18px;
-    color: #95389e;
+    color: #ffffff;
     padding: 0 15px;
 }
 
@@ -34,11 +34,11 @@
 
 .anav {
     font-size: 18px;
-    color: #95389e;
+    color: #ffffff;
     font-family: 'Montserrat', sans-serif;
 }
 
 .icono {
-    color: #95389e;
+    color: #ffffff;
     font-size: 26px;
 }
