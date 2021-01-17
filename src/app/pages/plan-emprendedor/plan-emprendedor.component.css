@@ -29,21 +29,21 @@ p {
 
 @media (max-width: 576px) {
     .titulo {
-        color: #95389e;
+        color: #ffffff;
         text-align: center;
         font-family: 'Montserrat', sans-serif;
         font-weight: bold;
         font-size: 25px;
     }
     .resaltado {
-        color: #95389e;
+        color: #ffffff;
         text-align: center;
         font-family: 'Montserrat', sans-serif;
         font-size: 20px;
         font-weight: bold;
     }
     p {
-        color: #95389e;
+        color: #ffffff;
         font-family: 'Montserrat', sans-serif;
         text-align: justify;
         font-size: 16px;
