@@ -1,20 +1,24 @@
 .resaltado {
     color: #ffffff;
     text-align: center;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.subt {
+    font-family: 'Raleway', sans-serif;
 }
 
 .titulo {
     color: #ffffff;
     text-align: center;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: bold;
 }
 
 p {
     color: #ffffff;
     text-align: center;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .icono {
@@ -31,21 +35,24 @@ p {
     .titulo {
         color: #ffffff;
         text-align: center;
-        font-family: 'Montserrat', sans-serif;
+        font-family: 'Raleway', sans-serif;
         font-weight: bold;
         font-size: 25px;
     }
     .resaltado {
         color: #ffffff;
         text-align: center;
-        font-family: 'Montserrat', sans-serif;
+        font-family: 'Roboto', sans-serif;
         font-size: 20px;
         font-weight: bold;
     }
     p {
         color: #ffffff;
-        font-family: 'Montserrat', sans-serif;
+        font-family: 'Roboto', sans-serif;
         text-align: justify;
         font-size: 16px;
+    }
+    .tipo {
+        font-family: 'Roboto', sans-serif;
     }
 }

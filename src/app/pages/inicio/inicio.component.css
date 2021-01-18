@@ -1,13 +1,13 @@
 p {
     color: #ffffff;
     text-align: justify;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .titulo {
     color: #ffffff;
     text-align: center;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: bold;
     font-size: 45px;
 }
@@ -21,7 +21,7 @@ p {
     .titulo {
         color: #ffffff;
         text-align: center;
-        font-family: 'Montserrat', sans-serif;
+        font-family: 'Raleway', sans-serif;
         font-weight: bold;
         /* font-size: 35px; */
     }

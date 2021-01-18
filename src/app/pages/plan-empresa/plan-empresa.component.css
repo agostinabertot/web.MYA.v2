@@ -3,6 +3,10 @@
     font-size: 21px;
 }
 
+.subt {
+    font-family: 'Raleway', sans-serif;
+}
+
 .boton {
     background-color: #00bcd4;
     color: #ffffff;
@@ -11,4 +15,8 @@
 .borde {
     /* border: 3px solid #00bcd4; */
     box-shadow: 15px 15px 20px #95389e;
+}
+
+.tipo {
+    font-family: 'Roboto', sans-serif;
 }

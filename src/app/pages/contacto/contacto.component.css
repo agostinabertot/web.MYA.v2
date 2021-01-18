@@ -1,14 +1,14 @@
 .titulo {
     color: #ffffff;
     text-align: center;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 .social {
     flex: 1 1 auto;
     display: flex;
     color: #ffffff;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .social a {
@@ -35,7 +35,7 @@
 .anav {
     font-size: 18px;
     color: #ffffff;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .icono {
