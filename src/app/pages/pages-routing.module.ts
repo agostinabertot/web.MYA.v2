@@ -16,6 +16,7 @@ const routes: Routes = [
   { path: 'markdigital', component: ServMDComponent},
   { path: 'emprendedor', component: PlanEmprendedorComponent},
   { path: 'empresa', component: PlanEmpresaComponent},
+  { path: 'success', component: SuccessComponent},
   { path: '', component: InicioComponent},
 ];
 
